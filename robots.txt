@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-l60k0w.aquariumlesson.com/sitemap.xml
